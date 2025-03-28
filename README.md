@@ -5,6 +5,7 @@ Project Overview
 The Reaction Time Tester is a microprocessor-based game designed to measure how quickly a player responds to a visual and auditory stimulus. 
 When an LED turns on at a random time, a buzzer sounds to alert the player. The player must then press a button as quickly as possible. 
 The system records the reaction time and displays it on an LCD screen.
+
 View simulation via this link: https://www.tinkercad.com/things/iZnFs5UJflk-reaction-time-project/editel?returnTo=%2Fthings%2FiZnFs5UJflk-reaction-tome-project&sharecode=6rbv-wERSUl9rQrlqwgBpNW6vY1FcSAYcxw91HOhUFI
 How It Works
 
