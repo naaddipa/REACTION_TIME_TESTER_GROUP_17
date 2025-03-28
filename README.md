@@ -25,7 +25,7 @@ How It Works
 
 
 
-Components Used
+Components Used:
 
 Microcontroller: Arduino (Uno/Nano)
 
@@ -42,7 +42,8 @@ Resistors: 220Ω for LED, 10KΩ for button pull-down
 Power Source: 5V from Arduino
 
 
-Circuit Design
+
+Circuit Design:
 
 The LED and buzzer activate simultaneously to signal the player.
 
@@ -51,14 +52,14 @@ The button input is read by the Arduino to calculate the reaction time.
 The LCD displays the reaction time in milliseconds.
 
 
-Key Features
+Key Features:
 
 Measures reaction time with millisecond accuracy
 Includes both visual and auditory cues
 Uses real-time input processing
 
 
-Team Information
+Team Information:
 
 Project Title: Reaction Time Tester
 
@@ -67,12 +68,21 @@ Group: 17
 Department: Computer Engineering
 Members:
 NANA AKOSUA ADDIPA – 1813522
+
 TEMILOLUWA IFEDAPO TITILOYE – 1828822
+
 GABRIEL NII ATTOH QUAYE – 1827522
+
 ASARE KINGSLEY DONKOR – 1818122
+
 BISMARK AMOAH – 1816222
+
 RANDY AGYEKUM – 1814622
+
 DADZIE KWESI ODARTEY - 1820722
+
 SABLAH FREDRICK – 7108821
+
 OWUSU TAKYI DANIEL – 7107621
+
 MARFO RICHMOND MENSAH - 7102721
